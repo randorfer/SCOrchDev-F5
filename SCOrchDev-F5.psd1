@@ -12,7 +12,7 @@
 RootModule = '.\SCOrchDev-F5.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # ID used to uniquely identify this module
 GUID = 'd705ab9b-8b88-4642-9cb6-9a152f69f19f'
